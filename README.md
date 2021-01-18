@@ -8,7 +8,7 @@
 * 🔭 I’m currently working on a full-stack project called Better Reads that is built with Spring Boot Framework.
 * 🌱 I’m currently learning ReactJS and delving more into Spring Boot Framework and building API's
 * 💬 Ask me about projects I've worked on, development technologies, or PC gaming
-* 📫 You can reach me on <a href="https://www.linkedin.com/in/cew32/"><img src="https://github.com/CalebEWheeler/CalebEWheeler/blob/main/readme_images/linkedIn.png"></a> width="22">
+* 📫 You can reach me on <a href="https://www.linkedin.com/in/cew32/"><img width="20" src="https://github.com/CalebEWheeler/CalebEWheeler/blob/main/readme_images/linkedIn.png"></a>
 * ⚡  Fun Fact: I enjoy saying random movie quotes out of context
 
 ---
