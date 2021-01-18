@@ -1,6 +1,5 @@
 
-
-
+<img src="https://github.com/CalebEWheeler/CalebEWheeler/blob/main/Caleb%2012.02.41%20AM.gif">
 
 - 🔭 I’m currently working on ... A full-stack project called Better Reads that is built with Spring Boot Framework.
 - 🌱 I’m currently learning ... ReactJS and delving more into Spring Boot Framework
