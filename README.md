@@ -7,7 +7,7 @@
 - 💬 Ask me about ... Projects I'm currently working on, Coding in general, or PC gaming
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/cew32/)
 
-https://github-readme-stats.vercel.app/api?username=calebewheeler&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
+<img src="https://github-readme-stats.vercel.app/api?username=calebewheeler&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-https://github-readme-stats.vercel.app/api/top-langs?username=calebewheeler&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=calebewheeler&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
