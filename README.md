@@ -1,5 +1,5 @@
 
-<img src="https://github.com/CalebEWheeler/CalebEWheeler/blob/main/Caleb%2012.02.41%20AM.gif">
+<img src="https://github.com/CalebEWheeler/CalebEWheeler/blob/main/readme_images/header.gif">
 
 ---
 
@@ -13,14 +13,7 @@
 
 ---
 #### Front End:
-<div>
-  <img src="https://github.com/CalebEWheeler/CalebEWheeler/blob/main/readme_images/html_icon.png" width="40">
-  <img src="https://github.com/CalebEWheeler/CalebEWheeler/blob/main/readme_images/css_icon.png" width="45">
-  <img src="https://github.com/CalebEWheeler/CalebEWheeler/blob/main/readme_images/js_icon.png" width="40">
-  <img src="https://github.com/CalebEWheeler/CalebEWheeler/blob/main/readme_images/bootstrap.png" width="40">
-  <img src="https://github.com/CalebEWheeler/CalebEWheeler/blob/main/readme_images/jquery.png" width="40">
-  <img src="https://github.com/CalebEWheeler/CalebEWheeler/blob/main/readme_images/react_icon.png" width="40">
-</div>
+<img src="https://github.com/CalebEWheeler/CalebEWheeler/blob/main/readme_images/front-end.png" width="400">
 
 ---
 
