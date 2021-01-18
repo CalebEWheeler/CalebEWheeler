@@ -14,12 +14,12 @@
 ---
 #### Front End:
 <div>
-  <img float="clear" src="https://github.com/CalebEWheeler/CalebEWheeler/blob/main/readme_images/html_icon.png" width="40">
-  <img float="clear" src="https://github.com/CalebEWheeler/CalebEWheeler/blob/main/readme_images/css_icon.png" width="40">
-  <img float="clear" src="https://github.com/CalebEWheeler/CalebEWheeler/blob/main/readme_images/js_icon.png" width="40">
-  <img float="clear" src="https://github.com/CalebEWheeler/CalebEWheeler/blob/main/readme_images/bootstrap.png" width="40">
-  <img float="clear" src="https://github.com/CalebEWheeler/CalebEWheeler/blob/main/readme_images/jquery.png" width="40">
-  <img float="clear" src="https://github.com/CalebEWheeler/CalebEWheeler/blob/main/readme_images/react_icon.png" width="40">
+  <img src="https://github.com/CalebEWheeler/CalebEWheeler/blob/main/readme_images/html_icon.png" width="40">
+  <img src="https://github.com/CalebEWheeler/CalebEWheeler/blob/main/readme_images/css_icon.png" width="45">
+  <img src="https://github.com/CalebEWheeler/CalebEWheeler/blob/main/readme_images/js_icon.png" width="40">
+  <img src="https://github.com/CalebEWheeler/CalebEWheeler/blob/main/readme_images/bootstrap.png" width="40">
+  <img src="https://github.com/CalebEWheeler/CalebEWheeler/blob/main/readme_images/jquery.png" width="40">
+  <img src="https://github.com/CalebEWheeler/CalebEWheeler/blob/main/readme_images/react_icon.png" width="40">
 </div>
 
 ---
