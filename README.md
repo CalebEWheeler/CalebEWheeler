@@ -5,7 +5,7 @@
 
 <h2 align="center">Thank you for dropping by!</h2>
 
-*🔭 I’m currently working on a full-stack project called Better Reads that is built with Spring Boot Framework.
+* 🔭 I’m currently working on a full-stack project called Better Reads that is built with Spring Boot Framework.
 * 🌱 I’m currently learning ReactJS and delving more into Spring Boot Framework and building API's
 * 💬 Ask me about projects I've worked on, development technologies, or PC gaming
 * 📫 You can reach me on <img src="https://github.com/CalebEWheeler/CalebEWheeler/blob/main/LinkedIn.png" width="22">
