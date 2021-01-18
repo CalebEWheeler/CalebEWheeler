@@ -15,6 +15,12 @@
 #### Front End:
 <img src="https://github.com/CalebEWheeler/CalebEWheeler/blob/main/readme_images/front-end.png" width="400">
 
+#### Back End:
+<img src="https://github.com/CalebEWheeler/CalebEWheeler/blob/main/readme_images/back-end.png" width="215">
+
+#### Other Tools:
+<img src="https://github.com/CalebEWheeler/CalebEWheeler/blob/main/readme_images/other-tools.png" width="150">
+
 ---
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=calebewheeler&&show_icons=true&title_color=76D2A2&icon_color=76D2A2&text_color=ffffff&bg_color=4e157f" height="220">
