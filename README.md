@@ -12,8 +12,17 @@
 * ⚡  Fun Fact: I enjoy saying random movie quotes out of context
 
 ---
+#### Front End:
+<div>
+  <img float="clear" src="https://github.com/CalebEWheeler/CalebEWheeler/blob/main/readme_images/html_icon.png" width="40">
+  <img float="clear" src="https://github.com/CalebEWheeler/CalebEWheeler/blob/main/readme_images/css_icon.png" width="40">
+  <img float="clear" src="https://github.com/CalebEWheeler/CalebEWheeler/blob/main/readme_images/js_icon.png" width="40">
+  <img float="clear" src="https://github.com/CalebEWheeler/CalebEWheeler/blob/main/readme_images/bootstrap.png" width="40">
+  <img float="clear" src="https://github.com/CalebEWheeler/CalebEWheeler/blob/main/readme_images/jquery.png" width="40">
+  <img float="clear" src="https://github.com/CalebEWheeler/CalebEWheeler/blob/main/readme_images/react_icon.png" width="40">
+</div>
 
-
+---
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=calebewheeler&&show_icons=true&title_color=76D2A2&icon_color=76D2A2&text_color=ffffff&bg_color=4e157f" height="220">
 
