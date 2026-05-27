@@ -1,9 +1,9 @@
-
+<!--
 <img src="https://github.com/CalebEWheeler/CalebEWheeler/blob/main/readme_images/header.gif">
 
 ---
 
-<!-- <h2 align="center">Thanks for dropping by!</h2>
+<h2 align="center">Thanks for dropping by!</h2>
 
 * 🔭 I’m currently working on a full-stack project called Better Reads that is built with Spring Boot Framework.
 * 🌱 I’m currently learning ReactJS and delving more into Spring Boot Framework and building API's
